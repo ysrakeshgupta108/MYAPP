@@ -1,7 +1,7 @@
 import argparse
 from myapp.migration.switcher import switcher
 def run():
-    print("APP is running")
+    print("APP is running...")
     parser = argparse.ArgumentParser()
     parser.add_argument("src_db", help="source database type")
     parser.add_argument("tar_db", help="target database type")
