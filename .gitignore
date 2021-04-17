@@ -1,3 +1,4 @@
 log.txt
 myapp/__pycache__/
 myapp/migration/__pycache__/
+*.log
